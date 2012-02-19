@@ -53,7 +53,7 @@ def error(message):
 
 
 def usage():
-    print "Invalid"
+    print "Usage: tc start/stop project"
     sys.exit(0)
 
 if __name__ == "__main__":
